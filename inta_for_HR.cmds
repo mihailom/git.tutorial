@@ -1,1 +1,0 @@
-IntaRNA -q HotRegion.fasta -t targets.fasta --outmode=C --outCsvCols='id1,start1,end1,id2,start2,end2,E'>IntaRNAOut.HotRegionOnly.csv
